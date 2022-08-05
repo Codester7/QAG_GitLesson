@@ -4,7 +4,7 @@ public class GitTestLesson {
 
     void GitTest (){
 
-        int trackCount = 6;
+        int trackCount = 5;
 
         String track1 = "Intro";
         String track2 = "Ария Змея";
